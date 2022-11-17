@@ -1,0 +1,10 @@
+#!/bin/bash
+cd ~
+mkdir ini_adalah_folder_yang_sangat_panjang_saya_bertanya-tanya_apakah_ini_tantangan_pertama
+cd ini_adalah_folder_yang_sangat_panjang_saya_bertanya-tanya_apakah_ini_tantangan_pertama
+mkdir jangan_menyerah_masuk_ke_folder_lain_yang_bernama_sangat_panjang_ini
+cd jangan_menyerah_masuk_ke_folder_lain_yang_bernama_sangat_panjang_ini
+mkdir beraninya_kamu_masuk_ke_folder_ini_tapi_bisakah_kamu_melangkah_lebih_jauh_1IiLli1lI11II1lli1lI
+cd beraninya_kamu_masuk_ke_folder_ini_tapi_bisakah_kamu_melangkah_lebih_jauh_1IiLli1lI11II1lli1lI
+touch flag{t4bs_t3rus_k4k4k}
+echo "user: csc_ctf <- Mungkin akan berguna nantinya..." >> flag{t4bs_t3rus_k4k4k}
